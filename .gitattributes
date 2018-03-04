@@ -7,3 +7,5 @@
 *.pdf -crlf -diff -merge
 *.tir -crlf -diff -merge
 *.fmu -crlf -diff -merge
+*.txt -crlf -diff -merge
+*.html -crlf -diff -merge
