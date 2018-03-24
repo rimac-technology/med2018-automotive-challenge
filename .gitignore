@@ -6,3 +6,4 @@ slprj
 *.mexw64
 *.mexw32
 *.prj
+/.SimulinkProject/*
